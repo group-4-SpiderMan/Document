@@ -23,10 +23,14 @@ Qihang Wu is in charge of the Social and ethical consideration.
 Yan Zhao and Yuxin Wu are both in charge of the script and the shooting of the presentation.
 
 # Meeting Agenda and minutes: 
-1. 8 am on Oct.24, Morning workshop+ working on miro
-2. 8 pm on Oct.26, The meeting to finish the idea board
-3. 8 am on Oct.31, the second group workshop on miro
-4. 8 pm on Nov.3, the meeting to finish the use case and user story map 
-5. 4 pm on Nov.10, the meeting to shoot the presentation video.
+ 8 am on Oct.24, Morning workshop+ working on miro
+ 
+ 8 pm on Oct.26, The meeting to finish the idea board
+ 
+ 8 am on Oct.31, the second group workshop on miro
+ 
+ 8 pm on Nov.3, the meeting to finish the use case and user story map 
+ 
+ 4 pm on Nov.10, the meeting to shoot the presentation video.
 
 
