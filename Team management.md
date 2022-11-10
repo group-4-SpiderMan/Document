@@ -13,8 +13,9 @@ Nov.3:  Finished the user story map and use case. Hu completed the system requir
 Nov.6 – Nov.11: All team members finished their own assigned work . The specific duties are presented in Task allocation part.
 
 # Task allocation:
-Lanping Hu is group 4’s leader. He is in charge of the whole teamwork, and assigns different work to team members. He also builds the code base and finishes the system requirement.
-Zhilin Guo  is in charge of the Team management documentation.
+Lanping Hu is group 4’s leader. He is in charge of the whole teamwork, and assigns different work to team members. He also finishes the system requirement and builds the code base.
+
+Zhilin Guo is in charge of the Team management documentation.
 
 Zhengxi Zhu is in charge of the wireframe and user guide.
 
