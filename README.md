@@ -7,3 +7,4 @@ https://miro.com/app/board/uXjVPI_ygE4=/
 # Reflection
 [Reflection](https://github.com/group-4-SpiderMan/Document/blob/main/Reflection.md)
 # Team management
+[Team management](https://github.com/group-4-SpiderMan/Document/blob/main/Team%20management.md)
